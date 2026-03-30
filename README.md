@@ -25,9 +25,9 @@ My work aligns with cutting-edge trends in:
   Agentic AI systems
   Autonomous data science
 
-- 🔭 I’m currently working on ...
+I’m currently working on ...
 
-  1. Multi-Agent Data Science System
+  Multi-Agent Data Science System
      Overview:
         Built a modular AI system composed of specialized agents including planner, coder, verifier, and router components.
      Capabilities:
@@ -38,7 +38,7 @@ My work aligns with cutting-edge trends in:
         Enables end-to-end automation of data science workflows
         Handles open-ended analytical problems effectively
 
-  2. Autonomous Data Science Pipeline
+  Autonomous Data Science Pipeline
      Overview:
         Implemented an AI system capable of executing the full data science lifecycle autonomously.
      Key Features:
@@ -50,22 +50,22 @@ My work aligns with cutting-edge trends in:
         Enables scalable and repeatable analytics
 
   
-- 🌱 I’m currently learning ...
+I’m currently learning ...
 
-  1.  ML and AI Architecture Expertise
-      End-to-End ML Pipeline:
-      Data ingestion → Feature engineering → Model training → Deployment → Monitoring
+  ML and AI Architecture Expertise
+  End-to-End ML Pipeline:
+  Data ingestion → Feature engineering → Model training → Deployment → Monitoring
 
-  2.  Agentic AI Architecture:
+  Agentic AI Architecture:
       Search-based reasoning (MCTS, Greedy, Evolutionary)
       Multi-agent collaboration systems
       Feedback-driven optimization loops
 
-- 👯 I’m looking to collaborate on ...
-    1.  Built AI agents that automate ML workflows
-    2.  Designed multi-agent systems for data science
-    3.  Implemented search-based AI optimization
-    4.  Developed autonomous analytics pipelines
+I’m looking to collaborate on ...
+    Built AI agents that automate ML workflows
+    Designed multi-agent systems for data science
+    Implemented search-based AI optimization
+    Developed autonomous analytics pipelines
 
 <!--
 **cdinesh/cdinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
