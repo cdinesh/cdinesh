@@ -1,13 +1,13 @@
 # Hi there 👋
 My name is Dinesh Choudhari. I hold a Master of Science in Data Science and Analytics from the Georgia Institute of Technology and bring over 20 years of experience in the data industry.
 
+## About Me
+
 ## Data Science & AI Leader
 
 I build production-grade machine learning systems and intelligent agents that automate complex workflows — from data analysis to scientific discovery.
 
 ---
-
-## About Me
 
 - Data Science and Advanced Analytics  
 - Machine Learning and Deep Learning  
